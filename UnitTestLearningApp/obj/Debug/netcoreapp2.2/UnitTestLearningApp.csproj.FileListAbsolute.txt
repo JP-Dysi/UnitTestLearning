@@ -1,0 +1,11 @@
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\bin\Debug\netcoreapp2.2\UnitTestLearningApp.deps.json
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\bin\Debug\netcoreapp2.2\UnitTestLearningApp.runtimeconfig.json
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\bin\Debug\netcoreapp2.2\UnitTestLearningApp.runtimeconfig.dev.json
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\bin\Debug\netcoreapp2.2\UnitTestLearningApp.dll
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\bin\Debug\netcoreapp2.2\UnitTestLearningApp.pdb
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\obj\Debug\netcoreapp2.2\UnitTestLearningApp.csprojAssemblyReference.cache
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\obj\Debug\netcoreapp2.2\UnitTestLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\obj\Debug\netcoreapp2.2\UnitTestLearningApp.AssemblyInfoInputs.cache
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\obj\Debug\netcoreapp2.2\UnitTestLearningApp.AssemblyInfo.cs
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\obj\Debug\netcoreapp2.2\UnitTestLearningApp.dll
+C:\Users\John Peters\source\repos\UnitTestLearningApp\UnitTestLearningApp\obj\Debug\netcoreapp2.2\UnitTestLearningApp.pdb
